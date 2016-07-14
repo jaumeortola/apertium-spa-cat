@@ -10562,8 +10562,8 @@
 <e r="LR"><p><l>reluciente<s n="adj"/><s n="mf"/></l><r>lluent<s n="adj"/><s n="GD"/></r></p></e>
 <e r="RL"><p><l>reluciente<s n="adj"/><s n="mf"/></l><r>lluent<s n="adj"/><s n="f"/></r></p></e>
 <e r="RL"><p><l>reluciente<s n="adj"/><s n="mf"/></l><r>lluent<s n="adj"/><s n="m"/></r></p></e>
-<e vr="cat">       <p><l>pulimentar<s n="vblex"/></l>      <r>lluentar<s n="vblex"/></r></p></e>
-<e vr="val" r="LR">       <p><l>pulimentar<s n="vblex"/></l>      <r>polir<s n="vblex"/></r></p></e>
+<e>       <p><l>pulimentar<s n="vblex"/></l>      <r>polir<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>pulimentar<s n="vblex"/></l>      <r>lluentar<s n="vblex"/></r></p></e>
 <e>       <p><l>lentejuela<s n="n"/><s n="f"/></l><r>lluentó<s n="n"/><s n="m"/></r></p></e>
 <e>       <i>Lluís<s n="np"/></i></e>
 <e>       <p><l>luchador<s n="adj"/></l>          <r>lluitador<s n="adj"/></r></p></e>
