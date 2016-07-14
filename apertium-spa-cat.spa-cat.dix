@@ -36763,7 +36763,8 @@
 <e>       <p><l>transitoriedad<s n="n"/></l>      <r>transitorietat<s n="n"/></r></p></e>
 <e>       <p><l>transliteración<s n="n"/></l>     <r>transliteració<s n="n"/></r></p></e>
 <e>       <p><l>transmisibilidad<s n="n"/></l>    <r>transmissibilitat<s n="n"/></r></p></e>
-<e>       <p><l>transtorno<s n="n"/></l>          <r>transtorn<s n="n"/></r></p></e>
+<e r="RL"><p><l>trastorno<s n="n"/></l>           <r>transtorn<s n="n"/></r></p></e>
+<e r="LR"><p><l>transtorno<s n="n"/></l>          <r>trastorn<s n="n"/></r></p></e>
 <e>       <p><l>trasero<s n="n"/></l>             <r>darrere<s n="n"/></r></p></e>
 <e>       <p><l>trasposición<s n="n"/></l>        <r>trasposició<s n="n"/></r></p></e>
 <e>       <p><l>trasunto<s n="n"/></l>            <r>trassumpte<s n="n"/></r></p></e>
