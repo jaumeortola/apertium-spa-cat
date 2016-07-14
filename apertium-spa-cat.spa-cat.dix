@@ -22319,7 +22319,7 @@
 <e r="RL" a="prompsit"><p><l>dar<g><b/>el<b/>visto<b/>bueno</g><s n="vblex"/></l><r>donar<g><b/>la<b/>conformitat</g><s n="vblex"/></r></p></e>
 <e a="prompsit"><p><l>debitar<s n="vblex"/></l>   <r>carregar<g><b/>en<b/>compte</g><s n="vblex"/></r></p></e>
 <e r="RL" a="prompsit" alt="std"><p><l>quebrar<s n="vblex"/></l><r>fer<g><b/>fallida</g><s n="vblex"/></r></p></e>
-<e>       <p><l>estar<g><b/>a<b/>punto</g><s n="vblex"/></l><r>ser<g><b/>a<b/>punt</g><s n="vbser"/></r></p></e>
+<e r="RL"><p><l>estar<g><b/>a<b/>punto</g><s n="vblex"/></l><r>ser<g><b/>a<b/>punt</g><s n="vbser"/></r></p></e>
 <e vr="cat">       <p><l>eso<b/>sí<s n="adv"/></l>         <r>això<b/>sí<s n="adv"/></r></p></e>
 <e vr="val">       <p><l>eso<b/>sí<s n="adv"/></l>         <r>açò<b/>sí<s n="adv"/></r></p></e>
 <e r="LR" a="prompsit"><p><l>ser<g><b/>acorde</g><s n="vbser"/></l><r>ser<g><b/>conforme</g><s n="vbser"/></r></p></e>
