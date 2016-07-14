@@ -3303,7 +3303,7 @@
 <e>       <p><l>marcha<s n="n"/></l>              <r>marxa<s n="n"/></r></p></e>
 <e>       <p><l>marco<s n="n"/></l>               <r>marc<s n="n"/></r></p></e>
 <e>       <i>marea<s n="n"/></i></e>
-<e>       <p><l>margen<s n="n"/></l>              <r>marge<s n="n"/></r></p></e>
+<e>       <p><l>margen<s n="n"/><s n="mf"/></l>    <r>marge<s n="n"/><s n="m"/></r></p></e>
 <e r="LR"><p><l>maricón<s n="n"/></l>             <r>marieta<s n="n"/></r></p></e>
 <e>       <p><l>mariquita<s n="n"/></l>           <r>marieta<s n="n"/></r></p></e>
 <e>       <p><l>marido<s n="n"/></l>              <r>marit<s n="n"/></r></p></e>
