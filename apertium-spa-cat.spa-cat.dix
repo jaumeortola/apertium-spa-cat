@@ -5632,6 +5632,8 @@
 <e>       <p><l>extender<s n="vblex"/></l>        <r>estendre<s n="vblex"/></r></p></e>
 <e>       <p><l>extinguir<s n="vblex"/></l>       <r>extingir<s n="vblex"/></r></p></e>
 <e>       <p><l>extraer<s n="vblex"/></l>         <r>extreure<s n="vblex"/></r></p></e>
+<e>       <p><l>extraditar<s n="vblex"/></l>      <r>extradir<s n="vblex"/></r></p></e>
+<e r="RL"><p><l>extraditar<s n="vblex"/></l>      <r>extraditar<s n="vblex"/></r></p></e>
 <e>       <p><l>extrañar<s n="vblex"/></l>        <r>estranyar<s n="vblex"/></r></p></e>
 <e>       <i>extraviar<s n="vblex"/></i></e>
 <e>       <i>fabricar<s n="vblex"/></i></e>
@@ -15621,7 +15623,7 @@
 <e a="prompsit2adn"><p><l>extorsionar<s n="vblex"/></l><r>extorquir<s n="vblex"/></r></p></e>
 <e a="prompsit2adn"><p><l>extracomunitario<s n="adj"/></l><r>extracomunitari<s n="adj"/></r></p></e>
 <e a="prompsit2adn"><p><l>extracto<s n="n"/></l>  <r>extracte<s n="n"/></r></p></e>
-<e a="prompsit2adn"><i>extraditar<s n="vblex"/></i></e>
+<!--<e a="prompsit2adn"><i>extraditar<s n="vblex"/></i></e>-->
 <e a="prompsit2adn"><p><l>extrañeza<s n="n"/></l> <r>estranyesa<s n="n"/></r></p></e>
 <e a="prompsit2adn"><p><l>extraordinariamente<s n="adv"/></l><r>extraordinàriament<s n="adv"/></r></p></e>
 <e a="prompsit2adn"><p><l>extravagante<s n="adj"/></l><r>extravagant<s n="adj"/></r></p></e>
