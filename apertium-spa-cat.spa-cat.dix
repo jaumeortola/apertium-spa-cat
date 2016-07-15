@@ -5819,6 +5819,7 @@
 <e>       <i>marcar<s n="vblex"/></i></e>
 <e>       <i>matar<s n="vblex"/></i></e>
 <e r="LR"><p><l>mediar<s n="vblex"/></l>          <r>intervenir<s n="vblex"/></r></p></e>
+<e r="LR"><p><l>promediar<s n="vblex"/></l>       <r>fer<g><b/>una<b/>mitjana<b/>de</g><s n="vblex"/></r></p></e>
 <e srl="medir D"><p><l>medir<s n="vblex"/></l>    <r>mesurar<s n="vblex"/></r></p></e>
 <e>       <i>meditar<s n="vblex"/></i></e>
 <e>       <p><l>mejorar<s n="vblex"/></l>         <r>millorar<s n="vblex"/></r></p></e>
@@ -37056,7 +37057,7 @@
 <e r="LR"><p><l>estuque<s n="n"/></l>             <r>estuc<s n="n"/></r></p></e>
 <e r="LR"><p><l>eucalipto<s n="n"/><s n="m"/><s n="pl"/></l><r>eucaliptus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
 <e r="LR"><p><l>eucalipto<s n="n"/><s n="m"/><s n="sg"/></l><r>eucaliptus<s n="n"/><s n="m"/><s n="sp"/></r></p></e>
-<e r="LR"><p><l>exégesis<s n="n"/><s n="f"/><s n="sp"/></l><r>exègesi<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
+<e r="LR"><p><l>exégesis<s n="n"/><s n="f"/><s n="sp"/></l><r>exegesi<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
 <e r="LR"><p><l>fango<s n="n"/></l>               <r>fang<s n="n"/></r></p></e>
 <e r="LR"><p><l>fauces<s n="n"/><s n="f"/><s n="pl"/></l><r>gargamella<s n="n"/><s n="f"/><s n="ND"/></r></p></e>
 <e r="LR"><p><l>feb.<s n="n"/></l>                <r>febr.<s n="n"/></r></p></e>
